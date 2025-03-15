@@ -29,7 +29,7 @@ Our objective is to leverage SQL for in-depth exploration and analysis of the
 dataset. By addressing specific queries related to the dataset, our goal is to reveal patterns that will guide strategic decisions and optimize the overall performance of the hotel.
 
 ## Tool used:
-`My SQL`
+`MS SQL SERVER`
 
 ## Questions:
 
