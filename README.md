@@ -53,5 +53,5 @@ price for that room type?
 ## Contact Information
 For any inquiries or feedback, please contact:
 
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
+- <a href="https://www.linkedin.com/in/murlidhar-dubey-7644a027b/">Murlidhar Dubey (LinkedIn)</a>
+- Email: dubey.murli43@gmail.com
